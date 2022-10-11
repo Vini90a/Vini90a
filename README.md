@@ -12,5 +12,8 @@
 - 🥅 **Objetivos 2022/2023**: Me aprimorar como desenvolvedor Salesforce e contribuindo para a comunidade.
 - ⚡ **Hobbies**: Adoro tocar guitarra, jogar video-game, curtir com minha esposa e doguinhos!
 
+
+[linkedin-shield]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+[linkedin-url]: https://www.linkedin.com/in/vin%C3%ADcius-alves-050806162
 [whatsapp-shield]: https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white
 [whatsapp-url]: https://api.whatsapp.com/send?phone=5511942251990
