@@ -9,7 +9,7 @@
 ## Eu sou Engenheiro Eletricista e Desenvolvedor Salesforce!
 
 - 📚 Vivendo em <em>learning mode</em>.
-- 🥅 **Objetivos 2022/2023**: Me aprimorar como desenvolvedor Salesforce e contribuindo para a comunidade.
+- 🥅 **Objetivos 2022/2023**: Me aprimorar como desenvolvedor Salesforce e contribuir para a comunidade de trailblazers.
 - ⚡ **Hobbies**: Adoro tocar guitarra, jogar video-game, curtir com minha esposa e doguinhos!
 
 
